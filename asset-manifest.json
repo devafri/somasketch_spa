@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/somasketch_spa/static/css/main.ceca84a1.chunk.css",
+    "main.js": "/somasketch_spa/static/js/main.991d2fbc.chunk.js",
+    "main.js.map": "/somasketch_spa/static/js/main.991d2fbc.chunk.js.map",
+    "runtime-main.js": "/somasketch_spa/static/js/runtime-main.aba48680.js",
+    "runtime-main.js.map": "/somasketch_spa/static/js/runtime-main.aba48680.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/somasketch_spa/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.46e7bc5c.chunk.js": "/somasketch_spa/static/js/2.46e7bc5c.chunk.js",
+    "static/js/2.46e7bc5c.chunk.js.map": "/somasketch_spa/static/js/2.46e7bc5c.chunk.js.map",
+    "index.html": "/somasketch_spa/index.html",
+    "precache-manifest.4c4756909ad267f57b338c7e0fcd5e5a.js": "/somasketch_spa/precache-manifest.4c4756909ad267f57b338c7e0fcd5e5a.js",
+    "service-worker.js": "/somasketch_spa/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/somasketch_spa/static/css/2.17e5ed98.chunk.css.map",
+    "static/css/main.ceca84a1.chunk.css.map": "/somasketch_spa/static/css/main.ceca84a1.chunk.css.map",
+    "static/js/2.46e7bc5c.chunk.js.LICENSE": "/somasketch_spa/static/js/2.46e7bc5c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aba48680.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.46e7bc5c.chunk.js",
+    "static/css/main.ceca84a1.chunk.css",
+    "static/js/main.991d2fbc.chunk.js"
+  ]
+}
